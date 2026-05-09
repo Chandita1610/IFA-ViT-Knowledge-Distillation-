@@ -46,7 +46,8 @@ If you use this work, please cite:
 
 }
 ________________________________________
-Contact
+Contact:
+
 Chandita Barman
 PhD Research Scholar
 Email: chandita.barman@iiitg.ac.in
