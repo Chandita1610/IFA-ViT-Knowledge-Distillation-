@@ -28,14 +28,22 @@ Dataset Links
 •	ADNI: https://ida.loni.usc.edu/home/projectPage.jsp?project=ADNI
 •	AIBL: https://ida.loni.usc.edu/home/projectPage.jsp?project=AIBL
 
+Framework
+![Algorithm](Algorithm.png)
+
 Citation
 If you use this work, please cite:
 
 @article{barman2026,
+  
   title={Attention-Guided Cross-Representation Distillation for Alzheimer’s Stage Identification Employing MRI Scans},
+  
   author={Barman, Chandita and Barma, Shovan},
+  
   journal={Neural Computing and Applications},
+  
   year={2026}
+
 }
 ________________________________________
 Contact
