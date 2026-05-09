@@ -28,7 +28,7 @@ Dataset Links
 •	ADNI: https://ida.loni.usc.edu/home/projectPage.jsp?project=ADNI
 •	AIBL: https://ida.loni.usc.edu/home/projectPage.jsp?project=AIBL
 
-Framework
+
 ![Algorithm](Algorithm.png)
 
 Citation
