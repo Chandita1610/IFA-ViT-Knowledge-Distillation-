@@ -1,5 +1,6 @@
 # IFA-ViT-Knowledge-Distillation-
 Attention-guided cross-representation distillation framework integrating ViT and SWT is proposed to capture global and local features for AD classification. A gated dual-teacher single-student architecture with interfusion attention fusion (IFA) transfers attention knowledge to a lightweight ViT-Lite student for efficient AD stage identification.
+
 Key Features:
 •	Dual Teacher–Single Student knowledge distillation framework
 •	Interfusion Attention Fusion (IFA) combining ViT and Swin Transformer
@@ -10,11 +11,8 @@ Key Features:
 •	Evaluated on ADNI and AIBL datasets
 •	Achieves up to 98.8% classification accuracy
 
-Datasets
-The framework was evaluated on the following benchmark datasets:
-ADNI
+Datasets: The framework was evaluated on the following benchmark datasets:
 Alzheimer’s Disease Neuroimaging Initiative (ADNI)
-AIBL
 Australian Imaging, Biomarker & Lifestyle Flagship Study of Ageing (AIBL)
 MRI Modalities
 •	T1-weighted MRI
@@ -29,6 +27,7 @@ Dataset Links
 
 Citation
 If you use this work, please cite:
+
 @article{barman2026,
   title={Attention-Guided Cross-Representation Distillation for Alzheimer’s Stage Identification Employing MRI Scans},
   author={Barman, Chandita and Barma, Shovan},
